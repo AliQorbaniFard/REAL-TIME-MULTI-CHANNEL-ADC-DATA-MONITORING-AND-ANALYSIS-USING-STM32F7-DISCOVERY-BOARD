@@ -1,0 +1,1758 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "main",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_4",
+            "X": 189,
+            "Y": 202,
+            "Width": 102,
+            "Height": 20,
+            "TextId": "__SingleUse_9I2F",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 48,
+              "Blue": 48
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2",
+            "X": 189,
+            "Y": 89,
+            "Width": 102,
+            "Height": 20,
+            "TextId": "__SingleUse_JAML",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 38,
+              "Green": 255,
+              "Blue": 74
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_3",
+            "X": 348,
+            "Y": 89,
+            "Width": 102,
+            "Height": 20,
+            "TextId": "__SingleUse_KONL",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 240,
+              "Green": 255,
+              "Blue": 23
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_1",
+            "X": 29,
+            "Y": 89,
+            "Width": 102,
+            "Height": 20,
+            "TextId": "__SingleUse_MPSG",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 20,
+              "Green": 151,
+              "Blue": 197
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_5",
+            "X": 348,
+            "Y": 202,
+            "Width": 102,
+            "Height": 20,
+            "TextId": "__SingleUse_XMJP",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 153,
+              "Green": 20,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph1",
+            "Width": 161,
+            "Height": 89,
+            "DataSeed": 677712596,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 20,
+                  "Green": 151,
+                  "Blue": 197
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 20,
+                "Green": 151,
+                "Blue": 197
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 20,
+                "Green": 151,
+                "Blue": 197
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 29,
+            "Y": 202,
+            "Width": 102,
+            "Height": 20,
+            "TextId": "__SingleUse_E8H4",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 246,
+              "Green": 125,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph2",
+            "X": 161,
+            "Width": 158,
+            "Height": 89,
+            "DataSeed": 1369118717,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 38,
+                  "Green": 255,
+                  "Blue": 74
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 38,
+                "Green": 255,
+                "Blue": 74
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 38,
+                "Green": 255,
+                "Blue": 74
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph3",
+            "X": 319,
+            "Width": 161,
+            "Height": 89,
+            "DataSeed": -1963116948,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 240,
+                  "Green": 255,
+                  "Blue": 23
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 240,
+                "Green": 255,
+                "Blue": 23
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 240,
+                "Green": 255,
+                "Blue": 23
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1",
+            "X": 165,
+            "Y": 222,
+            "Width": 150,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 44,
+                "IconReleased": "__generated\\icon_theme_images_editor_stacked_line_chart_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_done_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_large_released.png",
+                "ImagePressed": "button_large_pressed.png"
+              }
+            ]
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph4",
+            "Y": 119,
+            "Width": 161,
+            "Height": 83,
+            "DataSeed": 711661080,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 246,
+                  "Green": 125,
+                  "Blue": 255
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 246,
+                "Green": 125,
+                "Blue": 255
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 246,
+                "Green": 125,
+                "Blue": 255
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph5",
+            "X": 159,
+            "Y": 119,
+            "Width": 161,
+            "Height": 83,
+            "DataSeed": 1221192919,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 219
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 255,
+                "Green": 48,
+                "Blue": 48
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 255,
+                "Green": 48,
+                "Blue": 48
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph6",
+            "X": 320,
+            "Y": 119,
+            "Width": 160,
+            "Height": 83,
+            "DataSeed": 1739515493,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 153,
+                  "Green": 20,
+                  "Blue": 255
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 153,
+                "Green": 20,
+                "Blue": 255
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 153,
+                "Green": 20,
+                "Blue": 255
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton2",
+            "Width": 159,
+            "Height": 109,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 159,
+                "Height": 109,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton3",
+            "X": 161,
+            "Width": 159,
+            "Height": 109,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 159,
+                "Height": 109,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton4",
+            "X": 323,
+            "Width": 157,
+            "Height": 109,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 157,
+                "Height": 109,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton5",
+            "Y": 119,
+            "Width": 153,
+            "Height": 103,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 153,
+                "Height": 103,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton6",
+            "X": 161,
+            "Y": 119,
+            "Width": 162,
+            "Height": 103,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 162,
+                "Height": 103,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton7",
+            "X": 323,
+            "Y": 119,
+            "Width": 156,
+            "Height": 103,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 156,
+                "Height": 103,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "All"
+            }
+          },
+          {
+            "InteractionName": "Interaction2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton2"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "channel1"
+            }
+          },
+          {
+            "InteractionName": "Interaction3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton3"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "channel2"
+            }
+          },
+          {
+            "InteractionName": "Interaction4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton4"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "channel3"
+            }
+          },
+          {
+            "InteractionName": "Interaction5",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton5"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "channel4"
+            }
+          },
+          {
+            "InteractionName": "Interaction6",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton6"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "channel5"
+            }
+          },
+          {
+            "InteractionName": "Interaction7",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton7"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "East",
+              "ActionComponent": "channel6"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "All",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph1",
+            "Width": 478,
+            "Height": 272,
+            "DataSeed": 1980085875,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 20,
+                  "Green": 151,
+                  "Blue": 197
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 20,
+                "Green": 151,
+                "Blue": 197
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 20,
+                "Green": 151,
+                "Blue": 197
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph2",
+            "Width": 478,
+            "Height": 272,
+            "DataSeed": 1369118717,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 38,
+                  "Green": 255,
+                  "Blue": 74
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 38,
+                "Green": 255,
+                "Blue": 74
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 38,
+                "Green": 255,
+                "Blue": 74
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph3",
+            "Width": 479,
+            "Height": 272,
+            "DataSeed": -1963116948,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 240,
+                  "Green": 255,
+                  "Blue": 23
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 240,
+                "Green": 255,
+                "Blue": 23
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 240,
+                "Green": 255,
+                "Blue": 23
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph4",
+            "Width": 479,
+            "Height": 272,
+            "DataSeed": 711661080,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 246,
+                  "Green": 125,
+                  "Blue": 255
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 252,
+                "Green": 109
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 252,
+                "Green": 109
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph5",
+            "X": 1,
+            "Width": 478,
+            "Height": 272,
+            "DataSeed": 1221192919,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 255,
+                  "Green": 48,
+                  "Blue": 48
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 255,
+                "Green": 48,
+                "Blue": 48
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 255,
+                "Green": 48,
+                "Blue": 48
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph6",
+            "X": 1,
+            "Width": 478,
+            "Height": 272,
+            "DataSeed": 1739515493,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 153,
+                  "Green": 20,
+                  "Blue": 255
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 153,
+                "Green": 20,
+                "Blue": 255
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 153,
+                "Green": 20,
+                "Blue": 255
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1",
+            "X": 1,
+            "Width": 479,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "channel1",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1",
+            "X": 201,
+            "Y": 198,
+            "Width": 77,
+            "Height": 74,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          },
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph1",
+            "Width": 479,
+            "Height": 272,
+            "DataSeed": 1980085875,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 20,
+                  "Green": 151,
+                  "Blue": 197
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 20,
+                "Green": 151,
+                "Blue": 197
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 20,
+                "Green": 151,
+                "Blue": 197
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1_1",
+            "Width": 480,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1_1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "channel2",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph2",
+            "Width": 479,
+            "Height": 272,
+            "DataSeed": 1369118717,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 38,
+                  "Green": 255,
+                  "Blue": 74
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 38,
+                "Green": 255,
+                "Blue": 74
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 38,
+                "Green": 255,
+                "Blue": 74
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1_1",
+            "Width": 479,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1_1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "channel3",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph3",
+            "Width": 480,
+            "Height": 272,
+            "DataSeed": -1963116948,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 240,
+                  "Green": 255,
+                  "Blue": 23
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 240,
+                "Green": 255,
+                "Blue": 23
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 240,
+                "Green": 255,
+                "Blue": 23
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1_1",
+            "Width": 480,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1_1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "channel4",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph4",
+            "X": -1,
+            "Width": 480,
+            "Height": 272,
+            "DataSeed": 711661080,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 246,
+                  "Green": 125,
+                  "Blue": 255
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 246,
+                "Green": 125,
+                "Blue": 255
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 246,
+                "Green": 125,
+                "Blue": 255
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1_1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1_1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "channel5",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph5",
+            "Width": 480,
+            "Height": 272,
+            "DataSeed": 1221192919,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 255,
+                  "Green": 48,
+                  "Blue": 48
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 255,
+                "Green": 48,
+                "Blue": 48
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 255,
+                "Green": 48,
+                "Blue": 48
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1_1",
+            "Width": 480,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1_1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "channel6",
+        "CanvasBufferSize": 7200,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": -1,
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "DynamicGraph",
+            "Name": "dynamicGraph6",
+            "Width": 480,
+            "Height": 272,
+            "DataSeed": 1739515493,
+            "NumberOfValues": 100,
+            "MaxY": 3300.0,
+            "Precision": "1",
+            "LastIndex": 99,
+            "XAxisScale": 1.0,
+            "GraphType": "GraphScroll",
+            "GraphDrawers": [
+              {
+                "Type": "LineDrawer",
+                "LineWidth": 2,
+                "FileNameImage": "",
+                "Color": {
+                  "Red": 153,
+                  "Green": 20,
+                  "Blue": 255
+                }
+              }
+            ],
+            "XAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 153,
+                "Green": 20,
+                "Blue": 255
+              },
+              "Interval": 10.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            },
+            "YAxisGrid": {
+              "Type": "GraphGrid",
+              "Color": {
+                "Red": 153,
+                "Green": 20,
+                "Blue": 255
+              },
+              "Interval": 350.0,
+              "LineWidth": 1,
+              "Alpha": 60
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1_1",
+            "Width": 479,
+            "Height": 272,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "IconButtonStyle",
+                "X": 15,
+                "Y": 13,
+                "IconReleased": "__generated\\icon_theme_images_hardware_keyboard_return_50_50_E8F6FB.svg.png",
+                "IconPressed": "__generated\\icon_theme_images_action_settings_backup_restore_50_50_E8F6FB.svg.png"
+              },
+              {
+                "Type": "ImageButtonStyle",
+                "ImageReleased": "button_round_released.png",
+                "ImagePressed": "button_round_pressed.png"
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1_1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionSlide",
+              "ScreenTransitionDirection": "West",
+              "ActionComponent": "main"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "DataLogger",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "main",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommand": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommand": "make -f ../gcc/Makefile flash -j8",
+    "FlashTargetIntCommandOverride": "make -f ../gcc/Makefile intflash -j8",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32F7",
+    "SubFamily": "STM32F7x6",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../STM32F746G_DISCO.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": [
+      "CWRVector",
+      "VectorFonts",
+      "Video"
+    ]
+  },
+  "Version": "4.23.2",
+  "CreatedBy": "4.23.2"
+}

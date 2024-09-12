@@ -1,0 +1,11 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::UpdateGraph2(uint16_t)	1
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::UpdateGraph3(uint16_t)	1
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::UpdateGraph4(uint16_t)	1
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:23:18:virtual void ModelListener::UpdateGraph5(uint16_t)	1
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:24:18:virtual void ModelListener::UpdateGraph6(uint16_t)	1
+../../TouchGFX/gui/include/gui/channel1_screen/channel1Presenter.hpp:28:13:channel1Presenter::~channel1Presenter()	1
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/channel1_screen/channel1Presenter.cpp:10:6:virtual void channel1Presenter::activate()	1
+../../TouchGFX/gui/include/gui/channel1_screen/channel1Presenter.hpp:28:13:virtual channel1Presenter::~channel1Presenter()	1
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/channel1_screen/channel1Presenter.cpp:20:6:virtual void channel1Presenter::UpdateGraph(uint16_t)	1
+../../TouchGFX/gui/include/gui/channel1_screen/channel1Presenter.hpp:28:13:virtual void* channel1Presenter::_ZThn4_N17channel1PresenterD1Ev()	1
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/channel1_screen/channel1Presenter.cpp:4:1:channel1Presenter::channel1Presenter(channel1View&)	1

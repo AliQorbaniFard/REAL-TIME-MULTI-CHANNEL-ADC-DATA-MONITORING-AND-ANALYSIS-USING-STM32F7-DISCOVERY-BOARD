@@ -1,0 +1,6 @@
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/Core/Src/main.c:892:6:StartDefaultTask	1
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/Core/Src/main.c:248:6:SystemClock_Config	1
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/Core/Src/main.c:138:5:main	3
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/Core/Src/main.c:876:6:HAL_ADC_ConvCpltCallback	2
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/Core/Src/main.c:948:6:HAL_TIM_PeriodElapsedCallback	2
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/Core/Src/main.c:965:6:Error_Handler	1

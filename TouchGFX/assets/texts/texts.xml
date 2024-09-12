@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.23.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_XMJP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Channel 6</Translation>
+      </Text>
+      <Text Id="__SingleUse_9I2F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Channel 5</Translation>
+      </Text>
+      <Text Id="__SingleUse_KONL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Channel 3</Translation>
+      </Text>
+      <Text Id="__SingleUse_JAML" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Channel 2</Translation>
+      </Text>
+      <Text Id="__SingleUse_MPSG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Channel 1</Translation>
+      </Text>
+      <Text Id="__SingleUse_E8H4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Channel 4</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

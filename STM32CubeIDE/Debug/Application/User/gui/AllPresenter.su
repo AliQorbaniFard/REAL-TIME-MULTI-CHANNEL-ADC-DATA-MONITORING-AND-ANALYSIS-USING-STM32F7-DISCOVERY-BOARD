@@ -1,0 +1,11 @@
+../../TouchGFX/gui/include/gui/all_screen/AllPresenter.hpp:28:13:AllPresenter::~AllPresenter()	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:10:6:virtual void AllPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/all_screen/AllPresenter.hpp:28:13:virtual AllPresenter::~AllPresenter()	8	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:20:6:virtual void AllPresenter::UpdateGraph(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:25:6:virtual void AllPresenter::UpdateGraph2(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:30:6:virtual void AllPresenter::UpdateGraph3(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:35:6:virtual void AllPresenter::UpdateGraph4(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:40:6:virtual void AllPresenter::UpdateGraph5(uint16_t)	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:45:6:virtual void AllPresenter::UpdateGraph6(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/all_screen/AllPresenter.hpp:28:13:virtual void* AllPresenter::_ZThn4_N12AllPresenterD1Ev()	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/all_screen/AllPresenter.cpp:4:1:AllPresenter::AllPresenter(AllView&)	0	static

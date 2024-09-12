@@ -1,0 +1,11 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::UpdateGraph(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::UpdateGraph2(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::UpdateGraph3(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::UpdateGraph4(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:23:18:virtual void ModelListener::UpdateGraph5(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/channel6_screen/channel6Presenter.hpp:28:13:channel6Presenter::~channel6Presenter()	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/channel6_screen/channel6Presenter.cpp:10:6:virtual void channel6Presenter::activate()	0	static
+../../TouchGFX/gui/include/gui/channel6_screen/channel6Presenter.hpp:28:13:virtual channel6Presenter::~channel6Presenter()	8	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/channel6_screen/channel6Presenter.cpp:20:6:virtual void channel6Presenter::UpdateGraph6(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/channel6_screen/channel6Presenter.hpp:28:13:virtual void* channel6Presenter::_ZThn4_N17channel6PresenterD1Ev()	0	static
+D:/TouchGFX_projects/dvd_project/DataLogger/DataLogger/TouchGFX/gui/src/channel6_screen/channel6Presenter.cpp:4:1:channel6Presenter::channel6Presenter(channel6View&)	0	static
