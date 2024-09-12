@@ -13,6 +13,10 @@ This is the main window of data graph:
 When you tap on each graph, a window appears displaying data specific to that graph. Each window corresponds to its respective graph:
 
 
+
+
+
+
 ![photo_5989875667652690897_y](https://github.com/user-attachments/assets/e3d8a3db-3d71-4d88-bdf7-a72e7edfa9f6)
 ![photo_5989875667652690896_y](https://github.com/user-attachments/assets/ef21c4bf-48ac-4d7e-adda-90fb51d493c9)
 ![photo_5989875667652690895_y](https://github.com/user-attachments/assets/f27e1271-d53c-4c6e-a11e-21ad6c0a0745)
