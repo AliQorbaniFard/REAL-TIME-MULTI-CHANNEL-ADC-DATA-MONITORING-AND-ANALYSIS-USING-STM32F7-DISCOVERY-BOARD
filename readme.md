@@ -30,7 +30,11 @@ By tapping the button at the bottom of the main screen, a new screen appears dis
 ![photo_5989875667652690889_y](https://github.com/user-attachments/assets/435c490c-bc7f-46f4-8e96-f4b529a49d38)
 
 
-The pins designated for reading analog values are PA0, PA1, PA2, PA3, PA4, and PA5.
+The pins designated for reading analog values are PA0, PA1, PA2, PA3, PA4, and PA5(Arduino header pins).
+
+STM32 cubeIDE is used for debugging,
+touchgfx is used to setup GUI
+to upload the code, hex file is provided in cubeIDE folder
 
 To upload this code to your STM32F7 Discovery board, please follow these instructions:
 
