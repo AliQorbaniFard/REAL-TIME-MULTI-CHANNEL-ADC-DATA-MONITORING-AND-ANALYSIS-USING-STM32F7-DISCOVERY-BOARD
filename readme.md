@@ -24,7 +24,7 @@ When you tap on each graph, a screen appears displaying data specific to that gr
 ![photo_5989875667652690893_y](https://github.com/user-attachments/assets/ed7d1705-9f88-48a4-b526-6e09de7837c6)
 ![photo_5989875667652690891_y](https://github.com/user-attachments/assets/4026fa49-58e6-484e-b86d-35a71c1f98a2)
 
-## By tapping the button at the bottom of the main screen, a new screen appears displaying all graphs simultaneously for comparison purposes:
+# By tapping the button at the bottom of the main screen, a new screen appears displaying all graphs simultaneously for comparison purposes:
 
 
 ![photo_5989875667652690889_y](https://github.com/user-attachments/assets/435c490c-bc7f-46f4-8e96-f4b529a49d38)
