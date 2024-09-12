@@ -34,9 +34,11 @@
 
 ## STM32 cubeIDE is used for debugging,
 ## touchgfx is used to setup GUI
-## to upload the code, hex file is provided in cubeIDE folder
+## to upload the code, hex file is provided in CubeIDE folder
 
 # To upload this code to your STM32F7 Discovery board, please follow these instructions:
+
+## open STM32 ST-Utility>External Loader and select N25Q128A_STM32F746-DISCO
 
 
 
