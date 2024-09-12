@@ -38,8 +38,13 @@
 
 # To upload this code to your STM32F7 Discovery board, please follow these instructions:
 
-## open STM32 ST-Utility>External Loader and select N25Q128A_STM32F746-DISCO
+## Open STM32 ST-Link Utility>External Loader and select N25Q128A_STM32F746-DISCO
 
+## Click on open file
+
+## The .hex file is provided in STM32CubeIDE>Debug>STM32F746G_DISCO.hex
+
+## And finally click on Program verify.
 
 
 
